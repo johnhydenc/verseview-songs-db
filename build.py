@@ -5,7 +5,7 @@ from io import BytesIO
 from lxml import etree
 
 
-SONG_BOOKS_DIR = './songbooks'
+SONG_BOOKS_DIR = './songs-db/songbooks'
 
 class Song:
     def __init__(self, name, category, content, name2=None, tags=''):
