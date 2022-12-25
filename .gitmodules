@@ -1,0 +1,3 @@
+[submodule "songs-db.git"]
+	path = songs-db
+	url = https://github.com/johnhydenc/songs-db.git
